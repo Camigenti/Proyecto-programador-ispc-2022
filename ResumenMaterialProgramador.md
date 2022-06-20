@@ -5,7 +5,8 @@
 
 ### 0. *Metodologia SCRUM
 
-"***Software**"
+ 1 2 3 PROBANDO COMANDOS
+
 
 *Son los programas, documentos asociados y la configuración de datos que se necesita para que esos programas funcionen correctamente
 Cuando hablamos de documentacion nos referimos:
